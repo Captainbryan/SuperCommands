@@ -1,5 +1,5 @@
 # SuperCommands
-This Mod Adds +150 Commands to Minecraft
+This Mod Adds +164 Commands to Minecraft!
 
 Commands:
 
